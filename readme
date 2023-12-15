@@ -5,9 +5,9 @@ sudo apt-get install mysql-client
 # For python and related frameworks
 
 sudo apt-get install python3
-sudo apt-get install python3-flask
-sudo apt-get install python3-pymysql
-sudo apt-get install python3-boto3
+sudo apt-get install python3-flask (animation)
+sudo apt-get install python3-pymysql (python app should connect with mysql)
+sudo apt-get install python3-boto3 (to communicate with AWS)
 
 # for running application
 sudo python3 Empapp.py
